@@ -1,0 +1,10 @@
+{
+  "name": "AI Smart Air Paint Studio",
+  "description": "Futuristic touchless gesture-controlled air drawing and painting studio driven by computer vision hand-tracking and generative AI.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
